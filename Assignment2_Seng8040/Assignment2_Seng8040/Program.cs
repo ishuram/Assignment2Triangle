@@ -81,7 +81,7 @@ namespace Assignment2_Seng8040
                     int side3 = Program.ValidateSide("side3");
                     string result = TriangleSolver.Analyze(side1, side2, side3);
                     Console.WriteLine(result);
-                }
+                }   
             } while (option != 2);
            
         }

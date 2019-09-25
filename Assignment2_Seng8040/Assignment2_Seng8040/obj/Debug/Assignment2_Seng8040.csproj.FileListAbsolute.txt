@@ -5,3 +5,6 @@ C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\obj\Debug\
 C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\obj\Debug\Assignment2_Seng8040.csproj.CoreCompileInputs.cache
 C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\obj\Debug\Assignment2_Seng8040.exe
 C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\obj\Debug\Assignment2_Seng8040.pdb
+C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\bin\Debug\nunit.framework.dll
+C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\bin\Debug\nunit.framework.xml
+C:\Users\ishur\source\repos\Assignment2_Seng8040\Assignment2_Seng8040\obj\Debug\Assignment2_Seng8040.csproj.CopyComplete
