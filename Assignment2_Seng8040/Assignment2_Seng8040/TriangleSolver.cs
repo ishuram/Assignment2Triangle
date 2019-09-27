@@ -21,17 +21,17 @@ namespace Assignment2_Seng8040
             {
                 if (side1 == side2 && side2 == side3 && side3 == side1)
                 {
-                    result = "Equilateral Triangle";
+                    result = "A triangle is formed. This is an Equilateral Triangle";
                 }
 
                 else if (side1 == side2 || side1 == side3 || side2 == side3)
                 {
-                    result = "Isosceles Triangle";
+                    result = "A triangle is formed. This is an Isosceles Triangle";
                 }
 
                 else if (side1 != side2 && side2 != side3 && side1 != side3)
                 {
-                    result = "Scalene Triangle";
+                    result = "A triangle is formed. This is a Scalene Triangle";
                 }
             }
             Console.WriteLine(side1);
