@@ -34,11 +34,7 @@ namespace Assignment2_Seng8040
                     result = "A triangle is formed. This is a Scalene Triangle";
                 }
             }
-            Console.WriteLine(side1);
-            Console.WriteLine(side2);
-            Console.WriteLine(side3);
-            return result;
-            
+            return result;            
 
         }
     }
